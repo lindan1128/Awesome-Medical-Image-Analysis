@@ -10,8 +10,8 @@ For a fair comparison, the size of the input tensor is [1, 3, 128, 128, 128], th
 If not special specified, the network adopts Batch Normlization and Relu operator by defailt.
 
 
-|         Network            |     Params        |       Flops       |
+|         Network            |     Params(M)     |      Flops(G)     |
 |:--------------------------:|:-----------------:|:-----------------:|
-|                         |      76.3         |       93.2        |
+|          Unet++            |      27.46        |       2017.56     |
 
 

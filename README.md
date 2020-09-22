@@ -6,7 +6,7 @@ A survey library of medical image analysis papers and codes to follow related fi
 
 ## Performance Table
 
-For a fair comparison, the size of the input tensor is [1,3,128,128,128], the level of the network to defined as 5 (i.e., 32x) with the initial channel of 32, as level increases, the number of channels doubles.
+For a fair comparison, the size of the input tensor is [1,3,128,128,128], the total level of the network to defined as 5 (i.e., 32x) with the initial channel of 32, as level increases, the number of channels doubles.
 
 
 

@@ -7,11 +7,11 @@ A survey library of medical image analysis papers and codes to follow related fi
 ## Performance Table
 
 For a fair comparison, the size of the input tensor is [1, 3, 128, 128, 128], the total levels of the network is defined as 5 (i.e., down smaple 32x) with the initial channel of 32, as level increases, the number of channels doubles. 
-If not special specified, the network adopts Batch Normlization and RELU operator by defailt.
+If not special specified, the network adopts Batch Normlization and Relu operator by defailt.
 
 
 |         Network            |     Params        |       Flops       |
-|:--------------------------:|:-----------------:|:-----------------:|:------------------:|
-|                         |      76.3         |       93.2        |      ICLR2015      |
+|:--------------------------:|:-----------------:|:-----------------:|
+|                         |      76.3         |       93.2        |
 
 

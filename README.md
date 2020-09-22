@@ -12,6 +12,8 @@ If not special specified, the network adopts Batch Normalization and Relu operat
 
 |         Network            |     Params(M)     |      Flops(G)     |
 |:--------------------------:|:-----------------:|:-----------------:|
+|          Unet              |      23.54        |       581.79      |
 |          Unet++            |      27.46        |       2017.56     |
+
 
 

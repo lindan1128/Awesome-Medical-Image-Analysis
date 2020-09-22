@@ -1,10 +1,15 @@
 # Awesome-Medical-Image-Analysis
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A curated list of deep learning image classification papers and codes since 2014, Inspired by [awesome-object-detection](https://github.com/amusi/awesome-object-detection), [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers).
-
 ## Background
+A survey library of medical image analysis papers and codes with the aim of follow related field quickly, as well as better and fair comparison and reproduction in research.
+
+## Performance Table
+
+For a fair comparison, the size of the input tensor is [1,3,128,128,128], the level of the network to defined as 5 (i.e., 32x) with the initial channel of 32, as level increases, the number of channels doubles.
+
+
+
 
 I believe image classification is a great start point before diving into other computer vision fields, espacially
 for begginers who know nothing about deep learning. When I started to learn computer vision, I've made a lot of mistakes, I wish someone could have told me that which paper I should start with back then. There doesn't seem to have a repository to have a list of image classification papers like [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) until now. Therefore, I decided to make a repository
